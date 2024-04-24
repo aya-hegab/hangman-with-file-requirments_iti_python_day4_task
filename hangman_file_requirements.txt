@@ -1,0 +1,9 @@
+Ask the playes for his /her name 
+If found then after playing the game update his/her record according to the score 
+If not found add the player and his/her score to the score file 
+
+Ex: 
+Scores.txt
+mohammed : 0 : 1
+yara : 2 : 3
+
